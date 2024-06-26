@@ -13,4 +13,8 @@ A terminal-based system monitor built with Python to display CPU, memory, disk, 
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/system_monitor.git
-   cd system_monitor
+   
+2. Run 
+    ```sh
+    cd system_monitor
+    python system_monitor.py
